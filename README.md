@@ -1,36 +1,44 @@
-# Olá, eu sou a Dani! 👋
+# 🌟 Bem-vind@ ao meu GitHub! 🚀
 
-Sou estudante apaixonada por tecnologia e estou dando os primeiros passos no mundo da programação. Este repositório é uma coleção de ideias, aprendizados e pequenas criações enquanto exploro diferentes linguagens e conceitos.
+Olá! Sou **Daniely**, estudante no **segundo período** de Tecnólogo em Sistemas para Internet na **UESPI** e aluna dedicada do **Geração Tech 2.0** e da **Residência TIC do Capacita Brasil**. Meu objetivo? Me tornar uma **desenvolvedora full stack incrível**! 💻✨
 
-## 🌱 Aprendendo atualmente
-Estou focado em:
-- HTML e CSS: Criando minhas primeiras páginas web responsivas.
-- JavaScript: Descobrindo como trazer interatividade aos meus projetos.
+---
 
-## 🎯 Objetivos
-Meu objetivo é:
-- Desenvolver projetos práticos que resolvam problemas reais.
-- Contribuir para a comunidade de desenvolvimento compartilhando conhecimento e ideias.
+## 🎯 Sobre Mim
 
-## 🛠️ Ferramentas e Tecnologias
-Atualmente estou usando:
-- Visual Studio Code
-- Git
-- Navegadores modernos para testes e desenvolvimento
+- 🏫 **Formação:** Segundo período de Tecnólogo em Sistemas para Internet na UESPI.
+- 🚀 **Programas de Aprendizado:** 
+  - Geração Tech 2.0
+  - Residência TIC do Capacita Brasil
+- 🌱 **Habilidades em progresso:** HTML, CSS, JavaScript, Bootstrap e React.
+- 💡 **Missão:** Criar soluções impactantes e contribuir para um mundo mais conectado.
 
-## 💡 Ideias futuras
-Planejo trabalhar em projetos como:
-- Um site portfólio pessoal.
-- Pequenas aplicações web para aprendizado.
+---
 
-## ✨ Sobre mim
-Além da programação, eu adoro:
-- Música 🎵
-- Livros 📚
-- Jogos 🎮
-- Criar coisas com as próprias mãos 🛠️
-- Assistir filmes e séries 🎥
-- Experimentar novas tecnologias e gadgets 🕹️
+## 🛠️ Tecnologias em foco
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-Fique à vontade para explorar este repositório e acompanhar meu progresso! 🚀
+🔧 **Ferramentas:**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+📚 Sempre buscando aprender mais para construir projetos incríveis!
+
+---
+
+## 🌍 Vamos nos conectar?
+
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white) [Daniely no Discord](https://discordapp.com/users/688916004377460799)  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) [dani.melo.projetos@gmail.com](mailto:dani.melo.projetos@gmail.com)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) [Daniely Mélo no LinkedIn](https://br.linkedin.com/in/daniely-mélo-6a1a2b352)
+
+---
+
+💭 *"Se você pode sonhar, você pode codar!"*  
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios. 😊
