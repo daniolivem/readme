@@ -34,9 +34,9 @@ Olá! Sou **Daniely**, estudante no **segundo período** de Tecnólogo em Sistem
 
 ## 🌍 Vamos nos conectar?
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white) [Daniely no Discord](https://discordapp.com/users/688916004377460799)  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) [dani.melo.projetos@gmail.com](mailto:dani.melo.projetos@gmail.com)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) [Daniely Mélo no LinkedIn](https://br.linkedin.com/in/daniely-mélo-6a1a2b352)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/688916004377460799)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dani.melo.projetos@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/daniely-m%C3%A9lo-6a1a2b352)
 
 ---
 
