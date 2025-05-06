@@ -31,7 +31,14 @@ Olá! Sou **Daniely**, estudante no **segundo período** de Tecnólogo em Sistem
 📚 Sempre buscando aprender mais para construir projetos incríveis!
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniolivem&hide_progress=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daniolivem" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniolivem&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
 ## 🌍 Vamos nos conectar?
 
