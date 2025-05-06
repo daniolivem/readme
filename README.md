@@ -31,6 +31,7 @@ Olá! Sou **Daniely**, estudante no **segundo período** de Tecnólogo em Sistem
 📚 Sempre buscando aprender mais para construir projetos incríveis!
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniolivem&hide_progress=true)
 
 ## 🌍 Vamos nos conectar?
 
